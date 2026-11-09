@@ -44,7 +44,7 @@ New hardware, cable and materials, owner-furnished gear that stays, and gear tha
 - **Scan-first.** Jobs start from a LiDAR scan of the space. The scan feeds measurements; the client sees a clean modeled room.
 - **Photoreal 3D.** Blender Cycles renders and single-file interactive 3D room viewers that open anywhere, including from an iMessage or email attachment.
 - **LLM tooling.** The engine is exposed as tools to a local model (Gemma on Ollama) and as an MCP server. The model builds and checks drawing sets, and looks up specs only from the verified library: not found means "not verified", never a guess.
-- **Design to operations.** A machine-readable BOM export (`visualine-export/1`) feeds [RoomWatch](https://github.com/iwastimelessonce/roomwatch), my open-source fleet-health monitor, so the monitoring inventory comes straight from the design.
+- **Design to operations.** A machine-readable BOM export (`visualine-export/1`) feeds [RoomWatch](https://github.com/iwastimelessonce/roomwatch-showcase), my fleet-health monitor, so the monitoring inventory comes straight from the design.
 
 Built with Claude.
 
@@ -52,6 +52,6 @@ Built with Claude.
 
 Walkthrough of the engine on request.
 
-**Denis Kravchenko** · [LinkedIn](https://www.linkedin.com/in/denis-kravchenko-30804b6b) · [RoomWatch](https://github.com/iwastimelessonce/roomwatch)
+**Denis Kravchenko** · [LinkedIn](https://www.linkedin.com/in/denis-kravchenko-30804b6b) · [RoomWatch](https://github.com/iwastimelessonce/roomwatch-showcase)
 
 © 2026 Denis Kravchenko. All rights reserved.
