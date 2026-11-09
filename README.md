@@ -4,6 +4,8 @@
 
 Hand-drafting a set like this in AutoCAD took my team at least a week per job. VisuaLine builds it in minutes, every job comes out in the same style, and the same rules are checked on every build.
 
+> **Also see [RoomWatch](https://github.com/iwastimelessonce/roomwatch-showcase)**: fleet health monitoring for the rooms VisuaLine designs. Q-SYS and Cisco RoomOS over their own APIs, alerts and tickets on change, Prometheus metrics, and an MCP server an AI assistant can ask which rooms are down and why.
+
 This repo is a showcase. The engine itself is private. Everything below comes from a **fictional demo job** (Example Co, Conference Room 12A): a ceiling-mic replacement in a two-display Cisco room.
 
 ---
